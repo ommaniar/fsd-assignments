@@ -70,16 +70,16 @@ section p{
     }
     
     .col-6-md{
-        width: 45%;
-        margin-left: 2.5%;
-        margin-right:2.5%;
+        width: 40%;
+        margin-left: 5%;
+        margin-right:5%;
         float:left;
     }
     .col-12-md{
-        width:95%;
+        width:90%;
         float: left;
-        margin-left: 2.5%;
-        margin-right:2.5%;
+        margin-left: 5%;
+        margin-right:5%;
     }
     
 }
@@ -90,9 +90,9 @@ section p{
         color: white;
     }
     .col-sm{
-        width:95%;
-        margin-left: 2.5%;
-        margin-right:2.5%;
+        width:90%;
+        margin-left: 5%;
+        margin-right:5%;
     }
 
 }
