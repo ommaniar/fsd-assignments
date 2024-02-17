@@ -1,0 +1,42 @@
+/* Default styles for all screen sizes */
+
+/* Small screens (phones) */
+@media only screen and (max-width: 575.98px) {
+    /* Styles for small screens */
+    section .container-fluid{
+        padding:0 50px !important;
+    }
+  }
+  
+  /* Medium screens (tablets) */
+  @media only screen and (min-width: 576px) and (max-width: 767.98px) {
+    /* Styles for medium screens */
+    section .container-fluid{
+        padding:0 25px;
+    }
+  }
+  
+  /* Large screens (desktops) */
+  @media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    /* Styles for large screens */
+    section .container-fluid{
+        padding:0 25px;
+    }
+  }
+  
+  /* Extra large screens (large desktops) */
+  @media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+    /* Styles for extra large screens */
+    section .container-fluid{
+        padding:0 25px;
+    }
+  }
+  
+  /* Extra extra large screens (extra large desktops) */
+  @media only screen and (min-width: 1200px) {
+    /* Styles for extra extra large screens */
+    section .container-fluid{
+        padding:0 25px;
+    }
+  }
+  
